@@ -5,12 +5,6 @@
 This Preowork Study Guide was created for boot camp students who were going through the prework. It contains notes on HTML, CSS, Git and JavaScript.
 
 
-
-- [Installation](#installation)
-- [Usage](#usage)
-- [Credits](#credits)
-- [License](#license)
-
 ## Installation
 
 "N/A"
